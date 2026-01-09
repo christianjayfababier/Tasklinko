@@ -1,7 +1,7 @@
 
-  # Freelance Marketplace Website
+  # Bodhitree Upwork Like Web App
 
-  This is a code bundle for Freelance Marketplace Website. The original project is available at https://www.figma.com/design/up75rxoF3nrE0XGqNtmp3j/Freelance-Marketplace-Website.
+  This is a Web application for Bodhitree using react
 
   ## Running the code
 
